@@ -1,8 +1,8 @@
 # THIS PROJECT HAS MOVED
 
-For a reusable framework and tools, see [https://github.com/jskinn/arvet]. All future development will take place there.
-The code has been split into the core framework ([https://github.com/jskinn/arvet]), SLAM tools ([https://github.com/jskinn/arvet-slam]),
-and then specific experiments using the framework ([https://github.com/jskinn/slam-experiments-1]).
+For a reusable framework and tools, see https://github.com/jskinn/arvet. All future development will take place there.
+The code has been split into the core framework (https://github.com/jskinn/arvet), SLAM tools (https://github.com/jskinn/arvet-slam),
+and then specific experiments using the framework (https://github.com/jskinn/slam-experiments-1).
 
 # Robot Vision Evaluation Framework
 A framework for testing and training robot vision systems, as part of a robot vision experiment.
